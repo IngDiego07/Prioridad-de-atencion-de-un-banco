@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.input-section {
+    margin-bottom: 20px;
+}
+
+input[type="text"], input[type="number"] {
+    margin-right: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+#scheduling-result {
+    margin-top: 100px;
+}
